@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Dynamic ListView Colour List</string>
+    <string name="enter_new_colour">Enter new colour</string>
+    <string name="btnAddColour">Add New Colour</string>
+    <string name="enter_position_number">Enter Position Number</string>
+    <string name="remove_a_colour">Remove A Colour</string>
+    <string name="update_a_colour">Update A Colour</string>
+</resources>
